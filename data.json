@@ -1,14 +1,18 @@
-[
-  {
+{
+  "item1": {
     "name": "Apple",
     "price": 1.20
   },
-  {
+  "item2": {
     "name": "Banana",
     "price": 0.80
   },
-  {
+  "item3": {
     "name": "Orange",
     "price": 1.50
-  }
-]
+  },
+  "item4": {
+    "name": "Orange",
+    "price": 1.50
+  },
+}
